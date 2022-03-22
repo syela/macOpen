@@ -1,3 +1,3 @@
 # macOpen
 
-An app to open macOS apps. 
+An app to open selected macOS apps with just a click.
